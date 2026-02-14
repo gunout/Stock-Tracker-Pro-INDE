@@ -1,4 +1,4 @@
-# Stock-Tracker-Pro-INDE
+# Stock-Tracker-Pro-INDE - 🕐 Fuseau : Heure Paris (UTC+2)
 📊 Stock Tracker Pro - Analyse en Temps Réel - INDE
 
 # LIENS APP STREAMLIT :
